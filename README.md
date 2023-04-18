@@ -1,1 +1,1 @@
-Basics of Multithreading in C++ for future reference.
+Basics of Multithreading in Python for future reference.
